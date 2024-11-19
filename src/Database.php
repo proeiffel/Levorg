@@ -1,9 +1,9 @@
 <?php
 class Database {
     private $host = 'localhost';
-    private $db = 'levorg';
+    private $db = 'car_database';
     private $user = 'root';
-    private $pass = '';
+    private $pass = 'D@ftpunk1';
     private $charset = 'utf8mb4';
     private $pdo;
 
