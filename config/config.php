@@ -3,7 +3,7 @@ DB_HOST=localhost          # Veritabanı sunucusunun adresi
 DB_PORT=3306               # MySQL/MariaDB için varsayılan port
 DB_NAME=levorg_database    # Projeniz için veritabanı ismi
 DB_USER=root               # Veritabanı kullanıcı adı
-DB_PASSWORD=secretpassword # Veritabanı şifresi
+DB_PASSWORD=D@ftpunk1      # Veritabanı şifresi
 
 # Uygulama Ayarları
 APP_ENV=development        # Uygulama ortamı (development, production)
