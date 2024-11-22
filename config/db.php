@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$dbname = "car_platform";
-$username = "root";
-$password = "";
+$dbname = "car_database";
+$username = "car1";
+$password = "car2";
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
